@@ -1,14 +1,14 @@
 # PARA-atlastseason
 
-An Archival for all released works related to atlastseason.art
+An Archival for all released works related to [atlastseason](https://www.atlastseason.art)
 
-ที่รวบรวมงานที่ถูกปล่อยแล้วของ มังกรเขียวจาก atlastseason.art
+ที่รวบรวมงานที่ถูกปล่อยแล้วของ มังกรเขียวจาก [atlastseason](https://www.atlastseason.art)
 
 ![Support the green derg สนับสนุน มข ได้จ้า](images/Qr_Green_Dragon_Support_Square.jpg)
 
 ## Our Discord Server
 
-Come join us via [this link](discord.gg/adZMQ4uDKu)!
+Come join us via [this link](https://discord.gg/adZMQ4uDKu)!
 
 ![green dragon smirk with his tongue out](images/discord-logo.jpg)
 
