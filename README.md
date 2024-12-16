@@ -8,4 +8,4 @@ test adding image
 
 ## View Works
 
-- [[magma collection]]
+- [[./atlastseason-art/magma-art-draw/magma-collection.md]]
