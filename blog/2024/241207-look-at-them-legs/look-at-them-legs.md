@@ -1,9 +1,8 @@
-look-at-them-legs
+# Look at them LEGS 🦵✨
 
-## A4
 ![comic art, 2024, fanart, Look at them LEGS, Two characters, Giant Lizard and Giant Robot, got a long legs nearly stepped on a Green Dragon](Giant_Gz_And_Bm_publish.png)
 
-### Look at them LEGS 🦵✨
+### English Post
 
 > Is this a contest???
 
@@ -15,7 +14,9 @@ The new skin got the legs so long that it’s borderline silly.
 
 ---
 
-### ทำไมขามันต้องยาววววขนาดนี้ 🤣
+### โพสไทย 
+
+> ทำไมขามันต้องยาววววขนาดนี้ 🤣
 
 #### ภาพแรงบันดาลใจ
 
@@ -31,9 +32,7 @@ The new skin got the legs so long that it’s borderline silly.
 
 ![comic art, 2024, fanart, Look at them LEGS, Panel 2, Two characters, Giant Lizard and Giant Robot, got a long legs and a Green Dragon looking up to them from the ground](Giant_Gz_And_Bm-sq_pn-2.png)
 
-
-
 ---
-Annotations: 0,1207 SHA-256 c0b9cd1d1083cc4866793999beed2302  
-@atlastseason <atlastseason.art>: 27,138 195,6 221 308,29 488,31 543,23 635,70 800,40 841,4 856 858,116 989 995 1001 1004,172 1191 1197 1203,4  
+Annotations: 0,1207 SHA-256 cc0ca1a4744328f5a901510e8b8ba423  
+@atlastseason <atlastseason.art>: 0,2 26,138 194,19 299,29 479,42 545,23 637,70 802,40 843,4 858 860,116 991 997 1003 1006,172 1193 1199 1205,2  
 ...
