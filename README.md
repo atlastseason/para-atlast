@@ -8,4 +8,4 @@ test adding image
 
 ## View Works
 
-- [[./atlastseason-art/magma-art-draw/magma-collection.md]]
+- [Magma Drawing Session 241207](../atlastseason-art/magma-art-draw/magma-collection.md)
