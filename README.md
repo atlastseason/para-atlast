@@ -1,14 +1,21 @@
 # PARA-atlastseason
 
+{{TOC}}
+
 An Archival for all released works related to atlastseason.art
 
 ที่รวบรวมงานที่ถูกปล่อยแล้วของ มังกรเขียวจาก atlastseason.art
 
-![Support the green derg! สนับนสนุนได้นะคร้าบ](Qr_Green_Dragon_Support_Square.jpeg)
+<img alt=Support the green derg สนับนสนุนได้นะคร้าบ width=80% src=images/Qr_Green_Dragon_Support_Square.jpg>
 
-## Our Discord Channel
+## Our Discord Server
 
-<iframe src="https://discord.com/widget?id=1273988657199452231&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<img alt=green dragon smirk with his tongue out width=50% src=images/discord-logo.jpg>
+
+Come join us via [this link](discord.gg/adZMQ4uDKu)!
+
+---
+## Art
 
 ## 2024
 
