@@ -1,8 +1,8 @@
 # first-blog-from-scratch
 
-![Screenshot 1 of my blog](ss1.png)
+![Screenshot 1 of my blog](ss1.jpeg)
 
-![Screenshot 2 of my blog](ss2.png)
+![Screenshot 2 of my blog](ss2.jpeg)
 
 After reading, watching and experimenting a lot about how to create blog using basic tools like markdown and github, I have finally arrived on my own ways to create my own blog and the repositories for my published artworks.
 

@@ -14,7 +14,6 @@ Come join us via [this link](https://discord.gg/adZMQ4uDKu)!
 
 
 ---
-## Art
 
 ## 2024
 
@@ -26,7 +25,8 @@ Come join us via [this link](https://discord.gg/adZMQ4uDKu)!
 
 
 ### October
-
+- 24/11/26 [Colorful Comic 🦎☀️](blog/2024/241126-colorful-comic/colorful-comic.md)
+- 24/11/13 [WHERE!? (Monster Hunter Wilds Gag)](blog/2024/241113-monhunwilds-gag/monhunwilds-gag.md)
 
 ---
 
