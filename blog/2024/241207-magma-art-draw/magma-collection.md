@@ -1,6 +1,6 @@
 # magma collection
 
-> Live drawing Sessions from our [discord server](discord.gg/adZMQ4uDKu) members on [Magma](https://magma.com/d/3GfhdaVDOi)
+> Live drawing Sessions from our [discord server](https://discord.gg/adZMQ4uDKu) members on [Magma](https://magma.com/d/3GfhdaVDOi)
 
 ![Screenshot 1](magma-1.jpeg)
 

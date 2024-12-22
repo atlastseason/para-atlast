@@ -2,13 +2,25 @@
 
 ## English
 
+### Square
+
 ![Comic Art, Monster Hunter Wilds: WHERE!?, Panel 1, A Human shouting at green dragon:  Now is the chance!! Hit it in the face!!](monhunwild-gag-square-panel_en-panel-1.jpeg)
+
+	Panel 1
 
 ![Comic Art, Monster Hunter Wilds: WHERE!?, Panel 2, A Green dragon staring in bewilderedness](monhunwild-gag-square-panel_en-panel-2.jpeg)
 
-![Comic Art, Monster Hunter Wilds: WHERE!?, Panel 2, A Green dragon shouting: WHERE IS THE FACE!?](monhunwild-gag-square-panel_en-panel-3.jpeg)
+	Panel 2
+
+![Comic Art, Monster Hunter Wilds: WHERE!?, Panel 3, A Green dragon shouting: WHERE IS THE FACE!?](monhunwild-gag-square-panel_en-panel-3.jpeg)
+
+	Panel 3
+
+### A4
 
 ![Single Page Comic Art, Monster Hunter Wilds: WHERE!?, Green Dragon and his friend taking on the low-resolution monster, Text bubbles: 1.Now is the chance!! Hit it in the face!! 2.WHERE IS THE FACE!?](monhunwildbeta-gag_eng-text.jpeg)
+
+	WHERE!?
 
 > I mean, seriously. **Where is it!?**
 
@@ -18,13 +30,25 @@ Also, Alma my girl just waiting for me just outside the fighting ring to take no
 
 ## ไทย
 
+### จัตุรัส
+
 ![ภาพวาดคอมมิคอาร์ตเรื่อง มอนสเตอร์ฮันเตอร์ไวลด์: ตรงไหน!? ช่องที่ 1 เพื่อนของมังกรเขียวตะโกนใส่มังกรเขียวว่า เฮ้ย!หน้ามันแดงแล้ว จิ้มเลย!!](monhunwild-gag-square-panel_th-panel-1.jpeg)
+
+	ช่องที่ 1
 
 ![ภาพวาดคอมมิคอาร์ตเรื่อง มอนสเตอร์ฮันเตอร์ไวลด์: ตรงไหน!? ช่องที่ 2 มังกรเขียวจ้องด้วยความฉงน](monhunwild-gag-square-panel_th-panel-2.jpeg)
 
+	ช่องที่ 2
+
 ![ภาพวาดคอมมิคอาร์ตเรื่อง มอนสเตอร์ฮันเตอร์ไวลด์: ตรงไหน!? ช่องที่ 3 มังกรเขียวตะโกนถาม ตรงไหนคือหน้า!?](monhunwild-gag-square-panel_th-panel-3.jpeg)
 
+	ช่องที่ 3
+
+### A4
+
 ![ภาพวาดคอมมิคอาร์ตหน้าเดียวเรื่อง มอนสเตอร์ฮันเตอร์ไวลด์: ตรงไหน!? ตัวละครมังกรเขียวและเพื่อนกำลังรุมโจมตีมอนสเตอร์ในเกม มีข้อความพูดคือ ก:เฮ้ย!หน้ามันแดงแล้ว จิ้มเลย!! ข:ตรงไหนคือหน้า!?](monhunwildbeta-gag_thai-text.jpeg)
+
+	ตรงไหน!?
 
 ภาคนี้มันอะไรกั๊น 😂
 

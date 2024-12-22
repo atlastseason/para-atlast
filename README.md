@@ -20,7 +20,6 @@ Come join us via [this link](https://discord.gg/adZMQ4uDKu)!
 ### 2024
 
 #### December
-- *NEW* 24/12/16 [My first blog from scratch](blog/2024/241216-first-blog-from-scratch/first-blog-from-scratch.md)
 - 24/12/10 [Thank you art](blog/2024/241210-thankyou-art/thankyou-art.md)
 - 24/12/07 [Magma Drawing Session](blog/2024/241207-magma-art-draw/magma-collection.md)
 - 24/12/07 [Look at them LEGS 🦵✨](blog/2024/241207-look-at-them-legs/look-at-them-legs.md)
@@ -37,7 +36,9 @@ Come join us via [this link](https://discord.gg/adZMQ4uDKu)!
 ### 2024
 
 #### December
-- *NEW* 24/12/20 [ฝ้า ทำความสะอาด และท่อ U](blog/2024/241219-ฝ้า-ความสะอาด-และท่อP/241220-ฝ้า-ทําความสะอาด-และท่อP.md)
+- ✨*NEW* 24/12/22 [เกร็งกล้ามสมอง 💪🧠](blog/2024/241222-เกร็งกล้ามสมอง/241222-เกร็งกล้ามสมอง-Chandelierrrr.md)
+- 24/12/20 [ฝ้า ทำความสะอาด และท่อ U](blog/2024/241219-ฝ้า-ความสะอาด-และท่อP/241220-ฝ้า-ทําความสะอาด-และท่อP.md)
+- 24/12/16 [My first blog from scratch](blog/2024/241216-first-blog-from-scratch/first-blog-from-scratch.md)
 
 ---
 

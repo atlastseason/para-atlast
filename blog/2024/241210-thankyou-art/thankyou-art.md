@@ -2,6 +2,8 @@
 
 ![Drawing Art, 2024, Krita, Support's Event: Thank you Artwork, Green Dragon and Panmai, The moe seawolf, hugging each other, Thank you Panmai!, งานอาทวาดรูป ขอบคุณแผนไม้โมเอะ ปี 2567 โปรแกรม Krita มังกรเขียวกำลังกอดแผ่นไม้ หมาป่าโมเอะ](thankyou-panmai-moe-text.jpeg)
 
+	Thank you Panmai!
+
 ## English Post
 
 > For Pan Mai Moe
@@ -14,7 +16,7 @@ This piece has been drawn for the supporting event that has been held on Faceboo
 
 ขอบคุณคุณ @Chatworrawat Thandtawanant ที่เข้าร่วมกิจกรรม ช่วยมขไปต่อ และสนับสนุนด้วยนะคร้าบ
 
-[ติดตามเพจ](https://www.facebook.com/atlastseason.art/)หรือ[เข้าดิสคอร์ด](discord.gg/adZMQ4uDKu )มาเพื่อรับอัพเดทเกี่ยวกับงานต่อๆไปได้เลยจ้า
+[ติดตามเพจ](https://www.facebook.com/atlastseason.art/)หรือ[เข้าดิสคอร์ด](https://discord.gg/adZMQ4uDKu )มาเพื่อรับอัพเดทเกี่ยวกับงานต่อๆไปได้เลยจ้า
 
 ---
 
