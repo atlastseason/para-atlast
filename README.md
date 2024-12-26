@@ -25,9 +25,13 @@ Come join us via [this link](https://discord.gg/adZMQ4uDKu)!
 - 24/12/07 [Look at them LEGS 🦵✨](blog/2024/241207-look-at-them-legs/look-at-them-legs.md)
 
 
-#### October
+#### November
 - 24/11/26 [Colorful Comic 🦎☀️](blog/2024/241126-colorful-comic/colorful-comic.md)
 - 24/11/13 [WHERE!? (Monster Hunter Wilds Gag)](blog/2024/241113-monhunwilds-gag/monhunwilds-gag.md)
+- 24/11/11 [Get his Pocky](blog/2024/241111-pocky-shark/241111-pocky-shark.md)
+
+#### October
+- 24/10/09 [What’s their name again?](/blog/2024/241111-pocky-shark/241111-pocky-shark.md)
 
 ---
 
@@ -36,7 +40,8 @@ Come join us via [this link](https://discord.gg/adZMQ4uDKu)!
 ### 2024
 
 #### December
-- ✨*NEW* 24/12/22 [เกร็งกล้ามสมอง 💪🧠](blog/2024/241222-เกร็งกล้ามสมอง/241222-เกร็งกล้ามสมอง-Chandelierrrr.md)
+- ✨*NEW* 24/12/26 [หลังคริสต์มาส](/blog/2024/241226-after-christmas/241226-after-christmas.md)
+- 24/12/22 [เกร็งกล้ามสมอง 💪🧠](blog/2024/241222-เกร็งกล้ามสมอง/241222-เกร็งกล้ามสมอง-Chandelierrrr.md)
 - 24/12/20 [ฝ้า ทำความสะอาด และท่อ U](blog/2024/241219-ฝ้า-ความสะอาด-และท่อP/241220-ฝ้า-ทําความสะอาด-และท่อP.md)
 - 24/12/16 [My first blog from scratch](blog/2024/241216-first-blog-from-scratch/first-blog-from-scratch.md)
 
