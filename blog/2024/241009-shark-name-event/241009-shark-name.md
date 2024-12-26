@@ -10,4 +10,4 @@
 
 ![](sharkbros-forgot-name-(With-Watermark)-5-Large.jpeg)
 
-[PDF](blog/2024/241009-shark-name-event/sharkbros-forgot-name-(With-Watermark).pdf)
+[PDF](/blog/2024/241009-shark-name-event/sharkbros-forgot-name-(With-Watermark).pdf)
