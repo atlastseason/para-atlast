@@ -31,7 +31,7 @@ Come join us via [this link](https://discord.gg/adZMQ4uDKu)!
 - 24/11/11 [Get his Pocky](blog/2024/241111-pocky-shark/241111-pocky-shark.md)
 
 #### October
-- 24/10/09 [What’s their name again?](/blog/2024/241009-shark-name-event/24100-shark-name.md)
+- 24/10/09 [What’s their name again?](/blog/2024/241009-shark-name-event/241009-shark-name.md)
 
 ---
 
