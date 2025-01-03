@@ -1,0 +1,4 @@
+baseURL = 'https://blog.atlastseason.art'
+languageCode = 'en-us'
+title = 'atlast blog'
+theme = 'atlast-theme-v1'
