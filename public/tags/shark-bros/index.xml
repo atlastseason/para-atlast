@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shark Bros on atlast blog</title>
-    <link>https://blog.atlastseason.art/tags/shark-bros/</link>
-    <description>Recent content in Shark Bros on atlast blog</description>
+    <title>Shark Bros on มังเขียว atlast blog</title>
+    <link>http://localhost:1313/tags/shark-bros/</link>
+    <description>Recent content in Shark Bros on มังเขียว atlast blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Nov 2024 19:08:22 +0700</lastBuildDate>
-    <atom:link href="https://blog.atlastseason.art/tags/shark-bros/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/shark-bros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pocky Shark</title>
-      <link>https://blog.atlastseason.art/art-and-animation/2024/241111-pocky-shark/</link>
+      <link>http://localhost:1313/art-and-animation/2024/241111-pocky-shark/</link>
       <pubDate>Mon, 11 Nov 2024 19:08:22 +0700</pubDate>
-      <guid>https://blog.atlastseason.art/art-and-animation/2024/241111-pocky-shark/</guid>
+      <guid>http://localhost:1313/art-and-animation/2024/241111-pocky-shark/</guid>
       <description>&lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;2411111-pocky-big-shark_eng-text-Large.jpeg&#34; alt=&#34;Drawing art, Shark from Shark bros. hands pocky at the viewer, Text reads: Today’s a special day, so take it.&#34;&gt;&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;Sweet Shark&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h3 id=&#34;hes-feeling-generous&#34;&gt;He’s feeling generous&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Quickly. before he changes his mind~&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The Pocky Event day is now completed! Thank you for all the voters! He will be pleased for a while, until the next event approaches and I think it’s not that long.&lt;/p&gt;&#xA;&lt;p&gt;But, until then, enjoy his sweets!&lt;/p&gt;</description>
     </item>
     <item>
       <title>What’s their name again?</title>
-      <link>https://blog.atlastseason.art/comic/2024/241009-shark-name-event/</link>
+      <link>http://localhost:1313/comic/2024/241009-shark-name-event/</link>
       <pubDate>Wed, 09 Oct 2024 20:08:22 +0700</pubDate>
-      <guid>https://blog.atlastseason.art/comic/2024/241009-shark-name-event/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-1-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-2-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-3-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-4-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-5-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://blog.atlastseason.art/blog/2024/241009-shark-name-event/sharkbros-forgot-name-(With-Watermark).pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/comic/2024/241009-shark-name-event/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-1-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-2-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-3-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-4-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sharkbros-forgot-name-(With-Watermark)-5-Large.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/2024/241009-shark-name-event/sharkbros-forgot-name-(With-Watermark).pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
