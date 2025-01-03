@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Discord on atlast blog</title>
-    <link>https://blog.atlastseason.art/tags/discord/</link>
-    <description>Recent content in Discord on atlast blog</description>
+    <title>Discord on มังเขียว atlast blog</title>
+    <link>http://localhost:1313/tags/discord/</link>
+    <description>Recent content in Discord on มังเขียว atlast blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Dec 2024 19:08:22 +0700</lastBuildDate>
-    <atom:link href="https://blog.atlastseason.art/tags/discord/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/discord/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Discord Live Drawing Session</title>
-      <link>https://blog.atlastseason.art/art-and-animation/2024/241207-magma-art-draw/</link>
+      <link>http://localhost:1313/art-and-animation/2024/241207-magma-art-draw/</link>
       <pubDate>Sat, 07 Dec 2024 19:08:22 +0700</pubDate>
-      <guid>https://blog.atlastseason.art/art-and-animation/2024/241207-magma-art-draw/</guid>
+      <guid>http://localhost:1313/art-and-animation/2024/241207-magma-art-draw/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Live drawing Sessions from our &lt;a href=&#34;https://discord.gg/adZMQ4uDKu&#34;&gt;discord server&lt;/a&gt; members on &lt;a href=&#34;https://magma.com/d/3GfhdaVDOi&#34;&gt;Magma&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-1.jpeg&#34; alt=&#34;Screenshot 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-2.jpeg&#34; alt=&#34;Screenshot 2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-3.jpeg&#34; alt=&#34;Screenshot 3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-4.jpeg&#34; alt=&#34;Screenshot 4&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-5.jpeg&#34; alt=&#34;Screenshot 5&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-6.jpeg&#34; alt=&#34;Screenshot 6&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-7.jpeg&#34; alt=&#34;Screenshot 7&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-8.jpeg&#34; alt=&#34;Screenshot 8&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;magma-9.jpeg&#34; alt=&#34;Screenshot 9&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
