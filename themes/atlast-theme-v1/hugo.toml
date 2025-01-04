@@ -8,8 +8,8 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Art and Animation'
-pageRef = '/art-and-animation'
+name = 'Art'
+pageRef = '/art'
 weight = 20
 
 [[menus.main]]
@@ -23,9 +23,19 @@ pageRef = '/comic'
 weight = 26
 
 [[menus.main]]
+name = 'Video'
+pageRef = '/video'
+weight = 28
+
+[[menus.main]]
 name = 'Tags'
 pageRef = '/tags'
 weight = 30
+
+[[menus.main]]
+name = 'Tools'
+pageRef = '/tools'
+weight = 32
 
 [module]
   [module.hugoVersion]

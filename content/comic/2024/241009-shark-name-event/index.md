@@ -2,16 +2,17 @@
 title = "What’s their name again?"
 date = 2024-10-09T20:08:22+07:00
 tags = ['shark bros','original character']
+tools = 'remarkable'
 +++
 
-![](sharkbros-forgot-name-(With-Watermark)-1-Large.jpeg)
+![Page 1](sharkbros-forgot-name-wm-1-Large.jpeg)
 
-![](sharkbros-forgot-name-(With-Watermark)-2-Large.jpeg)
+![Page 2](sharkbros-forgot-name-wm-2-Large.jpeg)
 
-![](sharkbros-forgot-name-(With-Watermark)-3-Large.jpeg)
+![Page 3](sharkbros-forgot-name-wm-3-Large.jpeg)
 
-![](sharkbros-forgot-name-(With-Watermark)-4-Large.jpeg)
+![Page 4](sharkbros-forgot-name-wm-4-Large.jpeg)
 
-![](sharkbros-forgot-name-(With-Watermark)-5-Large.jpeg)
+![Page 5](sharkbros-forgot-name-wm-5-Large.jpeg)
 
-[PDF](/blog/2024/241009-shark-name-event/sharkbros-forgot-name-(With-Watermark).pdf)
+[PDF](sharkbros-forgot-name-wm.pdf)

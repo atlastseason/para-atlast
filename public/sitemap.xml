@@ -2,84 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.atlastseason.art/</loc>
     <lastmod>2025-01-03T21:21:43+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://blog.atlastseason.art/blog/</loc>
     <lastmod>2025-01-03T21:21:43+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/diary/</loc>
+    <loc>https://blog.atlastseason.art/tags/diary/</loc>
     <lastmod>2025-01-03T21:21:43+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2025/new-hugo-blog/</loc>
+    <loc>https://blog.atlastseason.art/blog/2025/250103-new-hugo-blog/</loc>
     <lastmod>2025-01-03T21:21:43+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.atlastseason.art/tags/</loc>
     <lastmod>2025-01-03T21:21:43+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2025/new/</loc>
-    <lastmod>2025-01-03T19:08:22+07:00</lastmod>
+    <loc>https://blog.atlastseason.art/tags/announcement/</loc>
+    <lastmod>2025-01-02T21:21:43+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024/241226-after-christmas/</loc>
+    <loc>https://blog.atlastseason.art/blog/2025/250102-new-year-recalibrate/new-year-time-to-recalibrate-en/</loc>
+    <lastmod>2025-01-02T21:21:43+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/tags/plan/</loc>
+    <lastmod>2025-01-02T21:21:43+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/blog/2025/250102-new-year-recalibrate/new-year-time-to-recalibrate-th/</loc>
+    <lastmod>2025-01-02T21:21:43+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/blog/2024/241226-after-christmas/</loc>
     <lastmod>2024-12-26T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024/241222-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B9%87%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87/</loc>
+    <loc>https://blog.atlastseason.art/blog/2024/241222-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B9%87%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87/</loc>
     <lastmod>2024-12-22T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024/241219-%E0%B8%9D%E0%B9%89%E0%B8%B2-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B9%88%E0%B8%ADp/</loc>
+    <loc>https://blog.atlastseason.art/blog/2024/241219-%E0%B8%9D%E0%B9%89%E0%B8%B2-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B9%88%E0%B8%ADp/</loc>
     <lastmod>2024-12-20T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024/241216-first-blog-from-scratch/</loc>
+    <loc>https://blog.atlastseason.art/blog/2024/241216-first-blog-from-scratch/</loc>
     <lastmod>2024-12-17T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art-and-animation/</loc>
+    <loc>https://blog.atlastseason.art/art/</loc>
     <lastmod>2024-12-10T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fanart/</loc>
+    <loc>https://blog.atlastseason.art/tags/fanart/</loc>
     <lastmod>2024-12-10T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/original-character/</loc>
+    <loc>https://blog.atlastseason.art/tags/original-character/</loc>
     <lastmod>2024-12-10T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art-and-animation/2024/241210-thankyou-art/</loc>
+    <loc>https://blog.atlastseason.art/art/2024/241210-thankyou-art/</loc>
     <lastmod>2024-12-10T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comic/</loc>
+    <loc>https://blog.atlastseason.art/comic/</loc>
     <lastmod>2024-12-07T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gaming/</loc>
+    <loc>https://blog.atlastseason.art/tags/gaming/</loc>
     <lastmod>2024-12-07T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comic/2024/241207-look-at-them-legs/</loc>
+    <loc>https://blog.atlastseason.art/comic/2024/241207-look-at-them-legs/</loc>
     <lastmod>2024-12-07T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/community/</loc>
+    <loc>https://blog.atlastseason.art/tags/community/</loc>
     <lastmod>2024-12-07T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/discord/</loc>
+    <loc>https://blog.atlastseason.art/tags/discord/</loc>
     <lastmod>2024-12-07T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art-and-animation/2024/241207-magma-art-draw/</loc>
+    <loc>https://blog.atlastseason.art/art/2024/241207-magma-art-draw/</loc>
     <lastmod>2024-12-07T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comic/2024/241126-colorful-comic/</loc>
+    <loc>https://blog.atlastseason.art/comic/2024/241126-colorful-comic/</loc>
     <lastmod>2024-11-26T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comic/2024/241113-monhunwilds-gag/</loc>
+    <loc>https://blog.atlastseason.art/comic/2024/241113-monhunwilds-gag/</loc>
     <lastmod>2024-11-13T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/illustration/</loc>
+    <loc>https://blog.atlastseason.art/tags/illustration/</loc>
     <lastmod>2024-11-11T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art-and-animation/2024/241111-pocky-shark/</loc>
+    <loc>https://blog.atlastseason.art/art/2024/241111-pocky-shark/</loc>
     <lastmod>2024-11-11T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shark-bros/</loc>
+    <loc>https://blog.atlastseason.art/tags/shark-bros/</loc>
     <lastmod>2024-11-11T19:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/comic/2024/241009-shark-name-event/</loc>
+    <loc>https://blog.atlastseason.art/comic/2024/241009-shark-name-event/</loc>
     <lastmod>2024-10-09T20:08:22+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.atlastseason.art/blog/2024/240912-art-of-hoarder-behind-the-scene/</loc>
+    <lastmod>2024-09-12T22:08:22+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/tags/behind-the-scene/</loc>
+    <lastmod>2024-09-12T22:08:22+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/art/2024/240912-art-of-hoarding/</loc>
+    <lastmod>2024-09-12T20:08:22+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/art/2024/240912-sketch/</loc>
+    <lastmod>2024-09-12T11:33:40+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/tags/sketch/</loc>
+    <lastmod>2024-09-12T11:33:40+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/tags/web-dev/</loc>
+    <lastmod>2024-05-15T11:13:31+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/blog/2024/240515-working-on-my-web/</loc>
+    <lastmod>2024-05-15T11:13:31+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/art/2024/240515-ready-get-set-pose/</loc>
+    <lastmod>2024-05-15T11:06:04+07:00</lastmod>
+  </url><url>
+    <loc>https://blog.atlastseason.art/categories/</loc>
   </url>
 </urlset>
