@@ -1,9 +1,8 @@
 +++
 title = 'Fuckit,imgoingbacktopaper!'
 date = 2024-05-07T21:07:58+07:00
-draft = true
-tags = ''
-tools = ''
+tags = ['paper animation','live footage']
+tools = ['traditional','light table']
 +++
 
 ![Thumbnail](duckyou-thumbnail.jpg "FUCKIT!")
