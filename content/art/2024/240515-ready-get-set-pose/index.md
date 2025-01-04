@@ -1,7 +1,7 @@
 +++
 title = 'Ready, Get set, Pose! 📸'
 date = 2024-05-15T11:06:04+07:00
-tags = 'original character'
+tags = 'original'
 +++
 
 ![Illustration of green dragon doing three poses](read-get-set-pose.jpg "Ready, Get set, Pose! 📸")

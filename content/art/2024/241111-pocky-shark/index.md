@@ -1,7 +1,7 @@
 +++
 title = 'Pocky Shark'
 date = 2024-11-11T19:08:22+07:00
-tags = ['shark bros','Illustration']
+tags = ['shark bros','Illustration','original']
 +++
 
 ## English

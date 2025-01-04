@@ -32,10 +32,10 @@ name = 'Tags'
 pageRef = '/tags'
 weight = 30
 
-[[menus.main]]
-name = 'Tools'
-pageRef = '/tools'
-weight = 32
+# [[menus.main]]
+# name = 'Tools'
+# pageRef = '/tools'
+# weight = 32
 
 [module]
   [module.hugoVersion]

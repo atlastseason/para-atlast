@@ -1,7 +1,7 @@
 +++
 title = 'New Hugo Blog'
 date = 2025-01-03T21:21:43+07:00
-tags = 'diary'
+tags = ['diary','web dev']
 +++
 
 ## ฮัลเหล เจอกันอีกแล้วนะงับ

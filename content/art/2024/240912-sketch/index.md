@@ -1,7 +1,7 @@
 +++
 title = 'Daily Sketch'
 date = 2024-09-12T11:33:40+07:00
-tags = ['sketch']
+tags = ['sketch','original']
 tools = 'remarkable'
 +++
 

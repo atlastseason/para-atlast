@@ -1,7 +1,7 @@
 +++
 title = 'First Blog from scratch'
 date = 2024-12-17T20:08:22+07:00
-tags = 'diary'
+tags = ['diary','web dev']
 +++
 
 ![Screenshot 1 of my blog](ss1.jpeg)

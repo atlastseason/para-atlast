@@ -1,7 +1,8 @@
 +++
 title = "Colorful: Short Comic"
 date = 2024-11-26T20:08:22+07:00
-tags = ['original character']
+tags = ['original']
+tools = 'procreate dream'
 +++
 
 ## English

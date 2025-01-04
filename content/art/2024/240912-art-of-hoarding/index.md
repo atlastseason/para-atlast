@@ -1,7 +1,7 @@
 +++
 title = 'atlast the art hoarder'
 date = 2024-09-12T20:08:22+07:00
-tags = 'illustration'
+tags = ['illustration','original']
 tools = 'procreate'
 +++
 

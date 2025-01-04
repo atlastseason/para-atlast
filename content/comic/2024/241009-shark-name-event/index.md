@@ -1,7 +1,7 @@
 +++
 title = "What’s their name again?"
 date = 2024-10-09T20:08:22+07:00
-tags = ['shark bros','original character']
+tags = ['shark bros','original']
 tools = 'remarkable'
 +++
 

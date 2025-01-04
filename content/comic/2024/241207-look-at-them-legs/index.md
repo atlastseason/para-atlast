@@ -2,6 +2,7 @@
 title = "Look at them LEGS 🦵✨"
 date = 2024-12-07T20:08:22+07:00
 tags = ['fanart','gaming']
+tools = 'procreate dream'
 +++
 
 

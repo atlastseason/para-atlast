@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Web Dev</title>
+      <link>https://blog.atlastseason.art/tags/web-dev/</link>
+      <pubDate>Fri, 03 Jan 2025 21:21:43 +0700</pubDate>
+      <guid>https://blog.atlastseason.art/tags/web-dev/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Announcement</title>
       <link>https://blog.atlastseason.art/tags/announcement/</link>
       <pubDate>Thu, 02 Jan 2025 21:21:43 +0700</pubDate>
@@ -37,10 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Original Character</title>
-      <link>https://blog.atlastseason.art/tags/original-character/</link>
+      <title>Original</title>
+      <link>https://blog.atlastseason.art/tags/original/</link>
       <pubDate>Tue, 10 Dec 2024 19:08:22 +0700</pubDate>
-      <guid>https://blog.atlastseason.art/tags/original-character/</guid>
+      <guid>https://blog.atlastseason.art/tags/original/</guid>
       <description></description>
     </item>
     <item>
@@ -93,10 +100,17 @@
       <description></description>
     </item>
     <item>
-      <title>Web Dev</title>
-      <link>https://blog.atlastseason.art/tags/web-dev/</link>
-      <pubDate>Wed, 15 May 2024 11:13:31 +0700</pubDate>
-      <guid>https://blog.atlastseason.art/tags/web-dev/</guid>
+      <title>Introduction</title>
+      <link>https://blog.atlastseason.art/tags/introduction/</link>
+      <pubDate>Tue, 30 Jul 2024 21:13:35 +0700</pubDate>
+      <guid>https://blog.atlastseason.art/tags/introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>https://blog.atlastseason.art/tags/talks/</link>
+      <pubDate>Tue, 30 Jul 2024 21:13:35 +0700</pubDate>
+      <guid>https://blog.atlastseason.art/tags/talks/</guid>
       <description></description>
     </item>
   </channel>
