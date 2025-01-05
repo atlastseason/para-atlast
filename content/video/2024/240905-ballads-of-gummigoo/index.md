@@ -1,7 +1,7 @@
 +++
 title = 'Ballads of Gummigoo'
 date = 2024-09-05T21:23:01+07:00
-tags = 'fanart'
+tags = ['fanart','live footage']
 tools = 'davinci resolve'
 +++
 

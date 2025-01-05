@@ -10,8 +10,12 @@ body {
 }
 
 header {
+  display: flex;
   border-bottom: 1px solid #222;
   margin-bottom: 1rem;
+  position: sticky;
+  top:0;
+  background: white;
 }
 
 footer {
@@ -19,10 +23,6 @@ footer {
   margin-top: 1rem;
 }
 
-a {
-  color: #00e;
-  text-decoration: none;
-}
 
 img {
     width: 100%;
@@ -34,15 +34,121 @@ main {
     margin: 0 auto;
 }
 
+blockquote {
+    background: whitesmoke;
+    margin: 0 3rem 0;
+    padding: 1rem;
+}
+
+header + div {
+    flex:1;
+}
+
+header div:nth-child(2) {
+    flex:2;
+    align-self: center;
+    margin-inline-start: 2rem;
+    nav {
+    ul {
+        display: flex;
+        list-style: none;
+        li {
+        flex:auto;
+            }
+        }
+    }
+}
+
+a {
+  text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:link {
+    color:unset;
+}
+
+a:visited {
+    color: unset;
+}
+
+nav a {
+    text-decoration: none;
+    color:unset;
+    padding: 2rem ;
+}
+
+nav a:hover {
+    background-color: whitesmoke;
+}
+
+main {
+    display: flex;
+    align-items: flex-start;
+}
+
+main div {
+    flex:1;
+    align-self: first baseline;
+    h1 {
+    }
+}
+
+section{
+    flex:3;
+    align-self: first baseline;
+    h2 {
+    }
+}
+
 @media screen and (max-width: 600px) {
 
     main {
         inline-size: 100%;
     }
-}
 
-blockquote {
-    background: whitesmoke;
-    margin: 0 3rem 0;
-    padding: 1rem;
+
+    nav a {
+        text-decoration: none;
+        color:unset;
+        padding:0;
+    }
+
+    header {
+        display:block;
+    }
+
+    header div {
+        text-align: center;
+    }
+
+    header div h1 {
+        margin: 0;
+    }
+
+    header div:nth-child(2) {
+        margin:0;
+        nav {
+        ul {
+            flex:1;
+            list-style: none;
+            padding:0;
+            li {
+
+                }
+            }
+        }
+    }
+
+    main {
+        display: block;
+    }
+
+    section {
+        margin-inline-start: 1rem;
+    }
 }
