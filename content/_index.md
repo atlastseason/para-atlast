@@ -1,3 +1,5 @@
+# Introduction
+
 ## ดีจ้า! นี่เว็บบล็อคของ มังกรเขียว แอดลาสซีซัน เองจ้า
 
 จะพยายามอัพเดทลงทุกๆๆๆๆวันนะคับ
@@ -13,7 +15,7 @@ I will try my best to update it everyday!
 
 ## ถ้าคุณอยากมีส่วนร่วมกับผม
 
-ขอเชิญไปเป็นผู้สนับสนุนรายเดือนที่เว็บ [Patreon](https://www.patreon.com/atlastseason) 
+ขอเชิญไปเป็นผู้สนับสนุนรายเดือนที่เว็บ [Patreon](https://www.patreon.com/atlastseason)
 
 หรืออยากเข้ามาพูดคุยกับสามารถมาที่[เซิฟดิสคอร์ด](https://discord.gg/adZMQ4uDKu) ของผมได้เลย!
 

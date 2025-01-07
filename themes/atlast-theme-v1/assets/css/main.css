@@ -76,6 +76,30 @@ a:visited {
     color: unset;
 }
 
+.alert {
+    font-size: 2rem;
+    text-align: center;
+    width: 60vw;
+    color: rgb(100, 240, 80);
+    padding: 1rem;
+    margin: 0 auto;
+    animation:
+    1s
+    cubic-bezier(0.25, 0.1, 0.25, 1)
+    alternate
+    infinite
+    blink;
+}
+
+@keyframes blink {
+    from {
+        background-color: rgb(150, 20, 200);
+    }
+    to{
+        background-color: rgb(220, 50, 255);
+    }
+}
+
 nav a {
     text-decoration: none;
     color:unset;
@@ -105,7 +129,7 @@ section{
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
 
     main {
         inline-size: 100%;
