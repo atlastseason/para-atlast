@@ -1,7 +1,6 @@
 +++
 title = 'I open commission to escape loan debt'
 date = 2025-01-07T21:58:43+07:00
-draft = true
 tags = 'commission'
 tools = 'traditional'
 +++
