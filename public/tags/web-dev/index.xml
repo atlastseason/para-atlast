@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Dev on มังเขียว atlast blog</title>
-    <link>http://localhost:1313/tags/web-dev/</link>
-    <description>Recent content in Web Dev on มังเขียว atlast blog</description>
+    <title>Web Dev on มังกรเขียว atlastseason</title>
+    <link>https://blog.atlastseason.art/tags/web-dev/</link>
+    <description>Recent content in Web Dev on มังกรเขียว atlastseason</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2025 21:21:43 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.atlastseason.art/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Hugo Blog</title>
-      <link>http://localhost:1313/blog/2025/250103-new-hugo-blog/</link>
+      <link>https://blog.atlastseason.art/blog/2025/250103-new-hugo-blog/</link>
       <pubDate>Fri, 03 Jan 2025 21:21:43 +0700</pubDate>
-      <guid>http://localhost:1313/blog/2025/250103-new-hugo-blog/</guid>
+      <guid>https://blog.atlastseason.art/blog/2025/250103-new-hugo-blog/</guid>
       <description>&lt;h2 id=&#34;ฮลเหล-เจอกนอกแลวนะงบ&#34;&gt;ฮัลเหล เจอกันอีกแล้วนะงับ&lt;/h2&gt;&#xA;&lt;p&gt;ตอนนี้ผมได้ทำการเปิดตัวเว็บบล็อคพรีอัลฟ่าเบต้าเทสใหม่โดยใช้ Hugo เป็นที่เรียบร้อยจ้า!&lt;/p&gt;&#xA;&lt;p&gt;เย้!!!&lt;/p&gt;&#xA;&lt;p&gt;มีอีกหลายสิ่งอย่างที่ต้องทำ ตอนนี้ผมก็ไล่เอางานอัพเดทลงใหม่ แอบเหมือนทำงานหลายรอบอยู่ แต่คิดซะว่าทำซ้ำเพื่อให้เข้าใจ และจะได้ไปต่อกับสิ่งดีๆใหม่ๆล่าสุด ไม่ติดกับอดีต&lt;/p&gt;&#xA;&lt;p&gt;ตอนนี้ก็สามารถไล่ลงงานที่เคยลงจากเว็บต่างๆได้ละ มารอดูกัน!&lt;/p&gt;&#xA;&lt;h2 id=&#34;hey-its-nice-to-see-you-again&#34;&gt;Hey! It’s nice to see you again!&lt;/h2&gt;&#xA;&lt;p&gt;I’m publicly launch a pre-alpha-beta build of my newly blog run by Hugo!&lt;/p&gt;&#xA;&lt;p&gt;Hooray!!!&lt;/p&gt;&#xA;&lt;p&gt;Many things need to be done. Start with re-publish all of my work, seems like I’m working in circle but it’s for the better understanding of making website and making sure I got the latest things to work with. To the brighter future!&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Blog from scratch</title>
-      <link>http://localhost:1313/blog/2024/241216-first-blog-from-scratch/</link>
+      <link>https://blog.atlastseason.art/blog/2024/241216-first-blog-from-scratch/</link>
       <pubDate>Tue, 17 Dec 2024 20:08:22 +0700</pubDate>
-      <guid>http://localhost:1313/blog/2024/241216-first-blog-from-scratch/</guid>
+      <guid>https://blog.atlastseason.art/blog/2024/241216-first-blog-from-scratch/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;ss1.jpeg&#34; alt=&#34;Screenshot 1 of my blog&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;ss2.jpeg&#34; alt=&#34;Screenshot 2 of my blog&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;After reading, watching and experimenting a lot about how to create blog using basic tools like markdown and github, I have finally arrived on my own ways to create my own blog and the repositories for my published artworks.&lt;/p&gt;&#xA;&lt;p&gt;This could help me a lot for backup all my published work into an easy to find place with minimal crawling into media tabs or albums.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Working on My Web</title>
-      <link>http://localhost:1313/blog/2024/240515-working-on-my-web/</link>
+      <link>https://blog.atlastseason.art/blog/2024/240515-working-on-my-web/</link>
       <pubDate>Wed, 15 May 2024 11:13:31 +0700</pubDate>
-      <guid>http://localhost:1313/blog/2024/240515-working-on-my-web/</guid>
+      <guid>https://blog.atlastseason.art/blog/2024/240515-working-on-my-web/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;ready-get-set-pose.jpg&#34; alt=&#34;Illustration of green dragon doing three poses&#34; title=&#34;Ready, Get set, Pose! 📸&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Recently, I&amp;rsquo;ve been doing anything &lt;strong&gt;but&lt;/strong&gt; drawing. I just don&amp;rsquo;t want to forget how. So, I drew my trusty &amp;ldquo;Green Dragon&amp;rdquo; and adding a little bit of simplify and make him even more agile!&lt;/p&gt;&#xA;&lt;p&gt;Been struggle to know if I should be planning more or just run through what I&amp;rsquo;ve felt is best for now. I’ve felt like this for the last two months.&lt;/p&gt;</description>
     </item>
   </channel>
